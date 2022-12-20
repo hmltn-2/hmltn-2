@@ -6,4 +6,4 @@ Fiverr: https://www.fiverr.com/julkhami
 
 Patreon: https://www.patreon.com/julkhami
 
-Stack Overflow: (coming soon)
+Stack Overflow: *(coming soon)*
