@@ -19,3 +19,5 @@ With a background in linguistics and enthusiasm for programming, most of my know
 I would love to apply my skills, learn and grow with other professionals, and contribute to projects that make people’s lives easier. I really value software that is fast, effective, stable, reliable, and enjoyable to use. I spend a lot of time thinking about design, from the technical elements up to the user interface.
 
 Thank you for considering my profile. You can find out more about my work and services on Fiverr and Patreon *(works in progress)*, and stay tuned for my upcoming Stack Overflow profile. Thank you for your time.
+
+I will be updating a portfolio shortly (currently in construction): https://github.com/hmltn-2/Portfolio
