@@ -1,23 +1,25 @@
+# 🤖 Computational Linguistics 🔮
 
+🤓 Discover the mysteries of natural language processing and Python development with our repository of projects. 🤖
 
+🔎 Explore the depths of data analysis and manipulation with our natural language processing tools. 🔮
 
+📚 Enhance your language skills with our writing, translation, and English language teaching projects. 📝
 
-# Julius Hamilton
+🧠 Stay ahead of the curve with our cutting-edge projects in Rust, blockchain, and OpenAI/GPT. 🤯
 
-## Computational Linguist Entrepreneur
+🔗 Follow the links below to learn more and join the revolution in computational linguistics. 🔮
 
-🗣️ Linguist ⌨️ Programmer 👀 Researcher ✍️ Writer 🇬🇧 Translator 📚 Teacher 🎦 Creator
+## 🚀 Current Projects 🚀
 
-- Fiverr: https://www.fiverr.com/julkhami
-- Patreon: https://www.patreon.com/julkhami
-- Stack Overflow: *(coming soon)*
+| Project                 | Description                                                                                                 |
+|-------------------------|-------------------------------------------------------------------------------------------------------------|
+| 🤖 Project 1: NLP Toolkit 🤖 | A suite of natural language processing tools for analyzing and manipulating human language data.            |
+| 🔮 Project 2: Rust Library 🔮 | A Rust library for efficient and reliable natural language processing tasks.                                 |
+| 🤯 Project 3: OpenAI GPT Chatbot 🤯 | A chatbot trained on OpenAI's GPT language model, capable of engaging in intelligent conversation.           |
 
-I'm a computational linguist and entrepreneur based in Stockholm. My goal is to be an entrepreneur, but I am currently improving my skills as a software developer.
+## 🔮 Contact Us 🔮
 
-With a background in linguistics and enthusiasm for programming, most of my knowledge and experience has to do with Python and computational linguistics, and some natural language processing. In addition to my technical skills, I am a solid writer and translator, and have experience teaching English.
+For more information or to request a project, visit our Fiverr and Patreon pages or stay tuned for our upcoming Stack Overflow profile. 🔗
 
-I would love to apply my skills, learn and grow with other professionals, and contribute to projects that make people’s lives easier. I really value software that is fast, effective, stable, reliable, and enjoyable to use. I spend a lot of time thinking about design, from the technical elements up to the user interface.
-
-Thank you for considering my profile. You can find out more about my work and services on Fiverr and Patreon *(works in progress)*, and stay tuned for my upcoming Stack Overflow profile. Thank you for your time.
-
-I will be updating a portfolio shortly (currently in construction): https://github.com/hmltn-2/Portfolio
+🌍 Made with 💙 in Stockholm. 🌎
