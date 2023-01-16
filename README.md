@@ -14,4 +14,4 @@ Specialized Applications: This category includes specialized applications.
 Our library is widely recognized and respected in the industry as a leading provider of NLP tools, and our research facility is committed to continuously improving and updating the library to stay at the forefront of the field. For further information or to request access to the library, please contact us at info@[our company name].com.
 
 
-hmltn-2.github.io
+https://hmltn-2.github.io
