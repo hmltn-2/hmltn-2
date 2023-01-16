@@ -1,30 +1,29 @@
-# 🤖 Computational Linguistics 🔮
+Thank you. Can you make #1 sound more "technical"? Like pack it full of industry jargon, but make it realistic. Imagine a software standard, like an RFC standard. like this is extremely technical industitral scientific specifications.
+Computational Linguistics
 
-🤓 Discover the mysteries of natural language processing and Python development with our repository of projects. 🤖
+This repository includes projects related to natural language processing (NLP) and Python development. Our NLP tools provide functionality for data analysis and manipulation, including tokenization, part-of-speech tagging, and syntactic parsing. Our projects also cover specialized areas such as machine translation, sentiment analysis and language generation using state-of-the-art techniques and models like transformer-based architectures like BERT, GPT-2 and T5. Our implementation is done in Rust programming language for better performance and memory management.
 
-🔎 Explore the depths of data analysis and manipulation with our natural language processing tools. 🔮
+We also include projects related to Rust programming language for efficient and reliable NLP tasks. Our implementation of Rust is done using the NLP Crate library, which provides functionality for tokenization, part-of-speech tagging, and syntactic parsing.
 
-📚 Enhance your language skills with our writing, translation, and English language teaching projects. 📝
+Our project also includes a language model based chatbot, which is trained on OpenAI's GPT model and is capable of engaging in human-like conversation.
 
-🧠 Stay ahead of the curve with our cutting-edge projects in Rust, blockchain, and OpenAI/GPT. 🤯
+Our projects also includes a card game helper which is an application to help you play and analyze the card game Hearts. The code is available on [GitHub](coming soon).
 
-🔗 Follow the links below to learn more and join the revolution in computational linguistics. 🔮
+We also provide a tutorial on using GitHub Codespaces to become a developer. The code is available on GitHub.
 
-## 🚀 Current Projects 🚀
+We have a reading application called DeepReader, which uses a powerful segmentation engine to provide a modern reading interface UI.
 
-| Project                 | Description                                                                                                 |
-|-------------------------|-------------------------------------------------------------------------------------------------------------|
-| 🤖 Project 1: NLP Toolkit 🤖 | A suite of natural language processing tools for analyzing and manipulating human language data.            |
-| 🔮 Project 2: Rust Library 🔮 | A Rust library for efficient and reliable natural language processing tasks.                                 |
-| 🤯 Project 3: OpenAI GPT Chatbot 🤯 | A chatbot trained on OpenAI's GPT language model, capable of engaging in intelligent conversation.           |
-| 🃏 Project 4: Hearts Helper 🃏 | An application to help you play and analyze the card game Hearts. Check out the code on [GitHub](*coming soon*). |
-| 💻 Project 5: GitHub Codespaces Tutorial 💻 | A tutorial on using GitHub Codespaces to become a developer. Check out the code on [GitHub](https://github.com/hmltn-2/codespace). |
-| 📖 Project 6: DeepReader 📖 | A reading application that uses a powerful segmentation engine to provide a modern reading interface UI. |
-| 💰 Project 7: Common Review 💰 | A blockchain-built, user-generated universal translation memory service. |
-| 💻 Project 8: paperOS 💻 | An operating system that rethinks how computer interfaces should be. |
+We have a blockchain-built, user-generated universal translation memory service called Common Review.
 
-## 🔮 Contact Us 🔮
+Our latest project is an operating system called paperOS, which rethinks how computer interfaces should be.
 
-For more information or to request a project, visit our Fiverr and Patreon pages or stay tuned for our upcoming Stack Overflow profile. 🔗
+Contact Us
 
-🌍 Made with 💙 in Stockholm. 🌎
+For more information or to request a project, visit our Fiverr and Patreon pages or stay tuned for our upcoming Stack Overflow profile.
+
+Made with in Stockholm.
+
+
+
+sweetiepweter@gmail.com
+Good. Please be more willing to deviate from the original material and change anything you want, so long as it sounds like an RFC industrial manual.
