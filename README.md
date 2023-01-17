@@ -1,7 +1,7 @@
 Crypto wallet: (to be added asap)
 
 
-
+|----------------------------------------------------------|
 | https://www.youtube.com/channel/UCzfWD6Fg-XiEcbiehKrWYxQ |
 | https://medium.com/@juliushamilton100_6419 |
 | https://en.wikipedia.org/wiki/User:Juliushamilton100 |
@@ -21,3 +21,8 @@ sweetiepweter@gmail.com
 To be added:
 
 - CV
+
+
+
+https://chat.openai.com/chat
+https://huggingface.co
