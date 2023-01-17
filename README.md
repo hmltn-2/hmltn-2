@@ -1,7 +1,7 @@
 Crypto wallet: (to be added asap)
 
-
-|----------------------------------------------------------|
+| Sites |
+|-------|
 | https://www.youtube.com/channel/UCzfWD6Fg-XiEcbiehKrWYxQ |
 | https://medium.com/@juliushamilton100_6419 |
 | https://en.wikipedia.org/wiki/User:Juliushamilton100 |
